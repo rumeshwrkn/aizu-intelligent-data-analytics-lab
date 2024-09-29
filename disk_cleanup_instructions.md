@@ -81,3 +81,4 @@ find . -name "*.pth" -exec rm -rf {} +
 
 ### Remove temporary or unnecessary data files
 ```rm -rf /path/to/data/files/*```
+
