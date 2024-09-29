@@ -52,7 +52,9 @@ Directories: Any folder you used for intermediate data storage.
 
 If you trained and saved multiple versions of the model, you can delete older or less accurate versions, keeping only the final or best model.
 
-**IMPORTANT**
+
+![Warning](https://img.shields.io/badge/Warning-red)
+
 
 *Be cautious when deleting files and ensure that any important data or checkpoints have been backed up first. If you're using a version control system like Git, you might also want to ensure critical files (like your final model and scripts) are tracked and safe.*
 
